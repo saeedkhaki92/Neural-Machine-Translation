@@ -5,4 +5,4 @@ Machine translation is an important task in natural language processing and coul
 
 ### The Neural-Machine-Translation model that is implemented:
 
-![Alt Text](https://github.com/saeedkhaki92/NLP-Question-duplicates/blob/main/meme.png)
+![Alt Text]https://github.com/saeedkhaki92/Neural-Machine-Translation/blob/main/NMTModel.png)
